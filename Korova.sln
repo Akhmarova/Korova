@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korova", "Korova\Korova.csproj", "{681EF8A4-3AC2-4981-876E-0CF6D55DB868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{01EB4F5B-87FE-446F-839B-A0CB241451CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication2", "WindowsFormsApplication2\WindowsFormsApplication2.csproj", "{38F9F70C-FEC3-458B-B18A-6FF4220E7FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681EF8A4-3AC2-4981-876E-0CF6D55DB868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681EF8A4-3AC2-4981-876E-0CF6D55DB868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681EF8A4-3AC2-4981-876E-0CF6D55DB868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681EF8A4-3AC2-4981-876E-0CF6D55DB868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01EB4F5B-87FE-446F-839B-A0CB241451CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EB4F5B-87FE-446F-839B-A0CB241451CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01EB4F5B-87FE-446F-839B-A0CB241451CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EB4F5B-87FE-446F-839B-A0CB241451CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F9F70C-FEC3-458B-B18A-6FF4220E7FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F9F70C-FEC3-458B-B18A-6FF4220E7FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F9F70C-FEC3-458B-B18A-6FF4220E7FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F9F70C-FEC3-458B-B18A-6FF4220E7FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
